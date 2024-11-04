@@ -1,0 +1,14 @@
+0.6
+2019.1
+May 24 2019
+15:06:07
+D:/minor_project/rev/alu_eightxone/alu_eightxone.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+D:/minor_project/rev/alu_eightxone/alu_eightxone.srcs/sim_1/new/alu_tb.v,1730465361,verilog,,,,alu_tb,,,,,,,,
+D:/minor_project/rev/alu_eightxone/alu_eightxone.srcs/sources_1/new/alu.v,1730465112,verilog,,D:/minor_project/rev/alu_eightxone/alu_eightxone.srcs/sources_1/new/arithmetic.v,,alu,,,,,,,,
+D:/minor_project/rev/alu_eightxone/alu_eightxone.srcs/sources_1/new/arithmetic.v,1730461878,verilog,,D:/minor_project/rev/alu_eightxone/alu_eightxone.srcs/sources_1/new/cog.v,,arithmetic,,,,,,,,
+D:/minor_project/rev/alu_eightxone/alu_eightxone.srcs/sources_1/new/cog.v,1730459391,verilog,,D:/minor_project/rev/alu_eightxone/alu_eightxone.srcs/sources_1/new/dkg.v,,cog,,,,,,,,
+D:/minor_project/rev/alu_eightxone/alu_eightxone.srcs/sources_1/new/dkg.v,1730459343,verilog,,D:/minor_project/rev/alu_eightxone/alu_eightxone.srcs/sources_1/new/logical.v,,dkg,,,,,,,,
+D:/minor_project/rev/alu_eightxone/alu_eightxone.srcs/sources_1/new/logical.v,1730459449,verilog,,D:/minor_project/rev/alu_eightxone/alu_eightxone.srcs/sources_1/new/mux.v,,logic_gates_peres,,,,,,,,
+D:/minor_project/rev/alu_eightxone/alu_eightxone.srcs/sources_1/new/mux.v,1730459376,verilog,,D:/minor_project/rev/alu_eightxone/alu_eightxone.srcs/sources_1/new/not_op.v,,mux,,,,,,,,
+D:/minor_project/rev/alu_eightxone/alu_eightxone.srcs/sources_1/new/not_op.v,1730459496,verilog,,D:/minor_project/rev/alu_eightxone/alu_eightxone.srcs/sources_1/new/peres.v,,notgate,,,,,,,,
+D:/minor_project/rev/alu_eightxone/alu_eightxone.srcs/sources_1/new/peres.v,1730459426,verilog,,D:/minor_project/rev/alu_eightxone/alu_eightxone.srcs/sim_1/new/alu_tb.v,,peres,,,,,,,,
