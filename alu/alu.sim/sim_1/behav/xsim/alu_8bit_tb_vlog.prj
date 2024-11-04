@@ -1,0 +1,17 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../alu.srcs/sources_1/new/alu1.v" \
+"../../../../alu.srcs/sources_1/new/alu_8bit.v" \
+"../../../../alu.srcs/sources_1/new/arithmetic.v" \
+"../../../../alu.srcs/sources_1/new/cog.v" \
+"../../../../alu.srcs/sources_1/new/dkg.v" \
+"../../../../alu.srcs/sources_1/new/logical.v" \
+"../../../../alu.srcs/sources_1/new/mux.v" \
+"../../../../alu.srcs/sources_1/new/peres.v" \
+"../../../../alu.srcs/sim_1/new/alu_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
